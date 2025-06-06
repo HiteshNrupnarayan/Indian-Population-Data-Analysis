@@ -12,7 +12,7 @@ Interactive Power BI dashboards for better understanding
 📁 Data Source:
 Official census and government open data repositories.
 
-🛠️ Tools Used:
+🛠️ Tools Used: 
 Power BI
 
 Microsoft Excel (for data preprocessing)
